@@ -11,11 +11,6 @@
 😄 **Pronouns:** Yash / He/Him  
 ⚡ **Fun fact:** I once built and deployed a real-time chat app, complete with file sharing and authentication, in just a few days!
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashtrivedi1234&theme=radical&no-frame=false&no-bg=false&margin-w=4)
