@@ -3,7 +3,6 @@
 
 👋 I am a MERN Stack Developer focused on building scalable, high-performance web applications using MongoDB, Express.js, React.js, and Node.js.<br><br>🔭 I’m currently working on full-stack MERN applications, designing REST APIs, implementing authentication & authorization, and building clean, reusable frontend components.<br><br>🌱 I’m currently learning advanced MERN concepts such as system design, backend optimization, secure authentication flows, database performance tuning, and production-ready architectures.<br><br>👯 I’m looking to contribute to open-source MERN projects, real-world web applications, and backend-driven platforms where I can collaborate and grow as a developer.<br><br>🤝 I’m looking for help with scaling MERN applications, improving code quality, best practices for large projects, and learning from experienced developers.<br><br>💬 Ask me about MERN stack, React, Node.js, Express.js, MongoDB, REST APIs, authentication, or full-stack development.<br><br>⚡ Fun fact: I enjoy debugging complex backend issues and turning ideas into fully functional products 🚀  
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-trivedi-contact) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashtrivedi.contact@gmail.com) 
  
