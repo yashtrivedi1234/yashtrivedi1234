@@ -31,11 +31,10 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yashtrivedi1234&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yashtrivedi1234&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashtrivedi1234&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=yashtrivedi1234&show_icons=true&theme=github_dark&hide_border=true)
 
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Streak](https://streak-stats.demolab.com?user=yashtrivedi1234&theme=github-dark&hide_border=true)
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashtrivedi1234&theme=github-dark&hide_border=true)
