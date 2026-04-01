@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=yashtrivedi1234&color=blue&style=flat)
+
 ## 💫 About Me:
  👋 Hi, I'm Yash Trivedi
 
