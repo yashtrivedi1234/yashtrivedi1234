@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=yashtrivedi1234&label=Profile%20Views&color=blue&style=for-the-badge)
-
 ## 💫 About Me:
  👋 Hi, I'm Yash Trivedi
 
@@ -38,5 +36,3 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=yashtrivedi1234&show_icons=true&theme=github_dark&hide_border=true)
 
 ![Streak](https://streak-stats.demolab.com?user=yashtrivedi1234&theme=github-dark&hide_border=true)
-
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashtrivedi1234&theme=github-dark&hide_border=true)
