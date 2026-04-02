@@ -32,7 +32,4 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 # 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=yashtrivedi1234&show_icons=true&theme=github_dark&hide_border=true)
-
 ![Streak](https://streak-stats.demolab.com?user=yashtrivedi1234&theme=github-dark&hide_border=true)
